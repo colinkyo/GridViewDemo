@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GridViewDemo</string>
+    <string name="btn_name">点击切换头像</string>
+</resources>
